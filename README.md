@@ -1,6 +1,6 @@
-# FinSight - AI-Powered Stock Tracker
+# Finverse - AI-Powered Stock Tracker
 
-FinSight is a modern, AI-driven stock market app built with Next.js, Shadcn, Better Auth, and Inngest. Track real-time prices, set personalized alerts, explore company insights, and manage watchlists seamlessly.
+Finverse is a modern, AI-driven stock market app built with Next.js, Shadcn, Better Auth, and Inngest. Track real-time prices, set personalized alerts, explore company insights, and manage watchlists seamlessly.
 
 ---
 
@@ -31,8 +31,8 @@ FinSight is a modern, AI-driven stock market app built with Next.js, Shadcn, Bet
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/DishaS08/FinSight_stock-tracker-app.git
-cd FinSight_stock-tracker-app
+git clone https://github.com/DishaS08/Finverse_stock-tracker-app.git
+cd Finverse_stock-tracker-app
 
 ```
 
