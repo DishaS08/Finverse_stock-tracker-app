@@ -32,7 +32,8 @@ Finverse is a modern, AI-driven stock market app built with Next.js, Shadcn, Bet
 1. **Clone the repo**:
 ```bash
 git clone https://github.com/DishaS08/Finverse_stock-tracker-app.git
-cd [Finverse_stock-tracker-app](https://root-and-sprout-restaurant.vercel.app/)
+cd Finverse_stock-tracker-app
+
 
 ```
 
